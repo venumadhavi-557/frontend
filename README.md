@@ -23,7 +23,7 @@ This is the explanation of our frontend webpage.............
  
  
  repl.it link of our kiddo amusement park:
-              https://frontend-of-our-bot.18pa1a0557guraj.repl.co
+              https://frontend.18pa1a0557guraj.repl.co
    
    
  Youtube link........
